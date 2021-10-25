@@ -1,2 +1,2 @@
-# 20_web_projects_with_vanilla_js
+# 20 web projects with vanilla JS
 Udemy JS Course
